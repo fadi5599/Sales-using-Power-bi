@@ -44,13 +44,6 @@ The dataset used contained the following columns:
 
 ---
 
-## 📎 Deliverables
-- .PBIX file (Power BI Dashboard)
-- README file (this document)
-- Sample video (optional)
-
----
-
 ## 📬 Contact
 If you're interested in similar dashboards or custom data analysis solutions, feel free to contact me.
 
